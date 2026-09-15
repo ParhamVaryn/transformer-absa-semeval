@@ -1,0 +1,4 @@
+run_name,lr,epochs,seed,target_marking,loss_type,val_f1_macro,val_accuracy
+deberta-v3-base_lr3e-05_ep3_seed42_tgt1_focal,3e-05,3,42,True,focal,0.7953825723793173,0.8238805970149253
+deberta-v3-base_lr3e-05_ep3_seed13_tgt1_focal,3e-05,3,13,True,focal,0.7693717639248902,0.7940298507462686
+deberta-v3-base_lr3e-05_ep3_seed77_tgt1_focal,3e-05,3,77,True,focal,0.7455753184014053,0.7611940298507462

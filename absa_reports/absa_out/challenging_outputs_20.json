@@ -1,0 +1,222 @@
+[
+  {
+    "category": "Negation scope",
+    "sentence": "The battery is not bad at all.",
+    "aspect": "battery",
+    "pred": "positive",
+    "probs": {
+      "negative": 0.23936383426189423,
+      "neutral": 0.11771517246961594,
+      "positive": 0.642920970916748
+    }
+  },
+  {
+    "category": "Negation scope",
+    "sentence": "I don't think the keyboard is good.",
+    "aspect": "keyboard",
+    "pred": "negative",
+    "probs": {
+      "negative": 0.797003984451294,
+      "neutral": 0.08499380946159363,
+      "positive": 0.11800222098827362
+    }
+  },
+  {
+    "category": "Negation scope",
+    "sentence": "The touchpad isn't terrible, just not great.",
+    "aspect": "touchpad",
+    "pred": "negative",
+    "probs": {
+      "negative": 0.7274988889694214,
+      "neutral": 0.09608165174722672,
+      "positive": 0.1764194518327713
+    }
+  },
+  {
+    "category": "Negation scope",
+    "sentence": "Not only is the screen bright, it\u2019s also not too reflective.",
+    "aspect": "screen",
+    "pred": "positive",
+    "probs": {
+      "negative": 0.06722188740968704,
+      "neutral": 0.11942706257104874,
+      "positive": 0.8133510947227478
+    }
+  },
+  {
+    "category": "Contrast (but/however)",
+    "sentence": "The screen is sharp, but the speakers are disappointing.",
+    "aspect": "speakers",
+    "pred": "negative",
+    "probs": {
+      "negative": 0.7827734351158142,
+      "neutral": 0.08752507716417313,
+      "positive": 0.12970152497291565
+    }
+  },
+  {
+    "category": "Contrast (but/however)",
+    "sentence": "The keyboard feels solid; however, the trackpad is frustrating.",
+    "aspect": "trackpad",
+    "pred": "negative",
+    "probs": {
+      "negative": 0.7900784611701965,
+      "neutral": 0.09659912437200546,
+      "positive": 0.11332249641418457
+    }
+  },
+  {
+    "category": "Contrast (but/however)",
+    "sentence": "Performance is fast, but the battery life is short.",
+    "aspect": "battery life",
+    "pred": "negative",
+    "probs": {
+      "negative": 0.7795833349227905,
+      "neutral": 0.08411602675914764,
+      "positive": 0.13630063831806183
+    }
+  },
+  {
+    "category": "Contrast (but/however)",
+    "sentence": "The laptop is lightweight, yet the build quality feels cheap.",
+    "aspect": "build quality",
+    "pred": "negative",
+    "probs": {
+      "negative": 0.5222174525260925,
+      "neutral": 0.09422463923692703,
+      "positive": 0.38355782628059387
+    }
+  },
+  {
+    "category": "Conditionals / hypotheticals",
+    "sentence": "If the battery lasted longer, this would be perfect.",
+    "aspect": "battery",
+    "pred": "negative",
+    "probs": {
+      "negative": 0.480069637298584,
+      "neutral": 0.2151726931333542,
+      "positive": 0.30475762486457825
+    }
+  },
+  {
+    "category": "Conditionals / hypotheticals",
+    "sentence": "It would be great if the fan noise were lower.",
+    "aspect": "fan",
+    "pred": "negative",
+    "probs": {
+      "negative": 0.7964469194412231,
+      "neutral": 0.09862188994884491,
+      "positive": 0.10493121296167374
+    }
+  },
+  {
+    "category": "Conditionals / hypotheticals",
+    "sentence": "Unless you use headphones, the speakers won't impress you.",
+    "aspect": "speakers",
+    "pred": "negative",
+    "probs": {
+      "negative": 0.7770600318908691,
+      "neutral": 0.1034826934337616,
+      "positive": 0.11945730447769165
+    }
+  },
+  {
+    "category": "Conditionals / hypotheticals",
+    "sentence": "Provided you keep it plugged in, performance is excellent.",
+    "aspect": "performance",
+    "pred": "positive",
+    "probs": {
+      "negative": 0.05002233386039734,
+      "neutral": 0.15128403902053833,
+      "positive": 0.7986935973167419
+    }
+  },
+  {
+    "category": "Sarcasm / rhetorical",
+    "sentence": "Oh great, the keyboard stops working again.",
+    "aspect": "keyboard",
+    "pred": "negative",
+    "probs": {
+      "negative": 0.8132306337356567,
+      "neutral": 0.09552740305662155,
+      "positive": 0.09124194085597992
+    }
+  },
+  {
+    "category": "Sarcasm / rhetorical",
+    "sentence": "Sure, the battery is 'amazing'\u2014it dies in two hours.",
+    "aspect": "battery",
+    "pred": "positive",
+    "probs": {
+      "negative": 0.16298191249370575,
+      "neutral": 0.16147686541080475,
+      "positive": 0.6755412220954895
+    }
+  },
+  {
+    "category": "Sarcasm / rhetorical",
+    "sentence": "Yeah right, the touchpad is 'precise'.",
+    "aspect": "touchpad",
+    "pred": "positive",
+    "probs": {
+      "negative": 0.11754414439201355,
+      "neutral": 0.18046285212039948,
+      "positive": 0.701992928981781
+    }
+  },
+  {
+    "category": "Sarcasm / rhetorical",
+    "sentence": "Who thought this screen glare was a good idea?",
+    "aspect": "screen",
+    "pred": "negative",
+    "probs": {
+      "negative": 0.7970558404922485,
+      "neutral": 0.10940809547901154,
+      "positive": 0.09353601932525635
+    }
+  },
+  {
+    "category": "Aspect collision / mixed sentiment",
+    "sentence": "The display is gorgeous, and the keyboard is great, but the battery is awful.",
+    "aspect": "battery",
+    "pred": "negative",
+    "probs": {
+      "negative": 0.6586198210716248,
+      "neutral": 0.13744886219501495,
+      "positive": 0.2039313018321991
+    }
+  },
+  {
+    "category": "Aspect collision / mixed sentiment",
+    "sentence": "I love the speed, but I hate the heat.",
+    "aspect": "heat",
+    "pred": "negative",
+    "probs": {
+      "negative": 0.752410352230072,
+      "neutral": 0.09917785227298737,
+      "positive": 0.1484118103981018
+    }
+  },
+  {
+    "category": "Aspect collision / mixed sentiment",
+    "sentence": "The speakers are loud, though the audio quality is muddy.",
+    "aspect": "audio quality",
+    "pred": "negative",
+    "probs": {
+      "negative": 0.7784446477890015,
+      "neutral": 0.08448674529790878,
+      "positive": 0.13706858456134796
+    }
+  },
+  {
+    "category": "Aspect collision / mixed sentiment",
+    "sentence": "The build is sturdy, but the hinge feels weak.",
+    "aspect": "hinge",
+    "pred": "negative",
+    "probs": {
+      "negative": 0.7843908071517944,
+      "neutral": 0.08643053472042084,
+      "positive": 0.12917865812778473
+    }
+  }
+]

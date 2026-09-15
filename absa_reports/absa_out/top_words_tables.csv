@@ -1,0 +1,161 @@
+type,key,word,count
+aspect,screen,use,7
+aspect,screen,keyboard,6
+aspect,screen,big,5
+aspect,screen,bright,5
+aspect,screen,darker,5
+aspect,screen,enough,5
+aspect,screen,around,4
+aspect,screen,large,4
+aspect,screen,lighting,4
+aspect,screen,mouse,4
+aspect,screen,want,4
+aspect,screen,working,4
+aspect,screen,added,3
+aspect,screen,back,3
+aspect,screen,clear,3
+aspect,screen,dark,3
+aspect,screen,easy,3
+aspect,screen,gets,3
+aspect,screen,great,3
+aspect,screen,hard,3
+aspect,battery life,hours,8
+aspect,battery life,long,7
+aspect,battery life,excellent,6
+aspect,battery life,good,6
+aspect,battery life,great,6
+aspect,battery life,hour,5
+aspect,battery life,10,4
+aspect,battery life,5,4
+aspect,battery life,macbook,4
+aspect,battery life,7,3
+aspect,battery life,ll,3
+aspect,battery life,much,3
+aspect,battery life,netbook,3
+aspect,battery life,screen,3
+aspect,battery life,short,3
+aspect,battery life,4,2
+aspect,battery life,6,2
+aspect,battery life,amazing,2
+aspect,battery life,best,2
+aspect,battery life,bought,2
+aspect,price,great,15
+aspect,price,best,7
+aspect,price,product,6
+aspect,price,better,5
+aspect,price,dell,5
+aspect,price,good,5
+aspect,price,laptops,5
+aspect,price,buy,4
+aspect,price,find,4
+aspect,price,performance,4
+aspect,price,pro,4
+aspect,price,quality,4
+aspect,price,will,4
+aspect,price,2000,3
+aspect,price,apple,3
+aspect,price,know,3
+aspect,price,look,3
+aspect,price,low,3
+aspect,price,mac,3
+aspect,price,macbook,3
+aspect,use,easy,23
+aspect,use,ease,7
+aspect,use,good,7
+aspect,use,mac,7
+aspect,use,great,5
+aspect,use,features,4
+aspect,use,simple,4
+aspect,use,absolutely,3
+aspect,use,easier,3
+aspect,use,everything,3
+aspect,use,graphics,3
+aspect,use,much,3
+aspect,use,quality,3
+aspect,use,well,3
+aspect,use,advanced,2
+aspect,use,apple,2
+aspect,use,college,2
+aspect,use,comes,2
+aspect,use,definitely,2
+aspect,use,expensive,2
+aspect,keyboard,screen,6
+aspect,keyboard,easy,5
+aspect,keyboard,extra,5
+aspect,keyboard,use,5
+aspect,keyboard,mouse,4
+aspect,keyboard,buttons,3
+aspect,keyboard,feels,3
+aspect,keyboard,light,3
+aspect,keyboard,love,3
+aspect,keyboard,see,3
+aspect,keyboard,anything,2
+aspect,keyboard,back,2
+aspect,keyboard,bad,2
+aspect,keyboard,boyfriend,2
+aspect,keyboard,bright,2
+aspect,keyboard,dark,2
+aspect,keyboard,due,2
+aspect,keyboard,easily,2
+aspect,keyboard,full,2
+aspect,keyboard,functions,2
+polarity,negative,battery,68
+polarity,negative,windows,65
+polarity,negative,screen,48
+polarity,negative,software,48
+polarity,negative,use,48
+polarity,negative,work,45
+polarity,negative,keyboard,44
+polarity,negative,even,41
+polarity,negative,drive,40
+polarity,negative,power,40
+polarity,negative,back,39
+polarity,negative,hard,39
+polarity,negative,life,37
+polarity,negative,time,35
+polarity,negative,problem,34
+polarity,negative,months,32
+polarity,negative,2,31
+polarity,negative,vista,31
+polarity,negative,problems,30
+polarity,negative,system,30
+polarity,neutral,windows,69
+polarity,neutral,programs,47
+polarity,neutral,use,46
+polarity,neutral,7,36
+polarity,neutral,hard,36
+polarity,neutral,office,32
+polarity,neutral,etc,31
+polarity,neutral,battery,29
+polarity,neutral,2,27
+polarity,neutral,drive,27
+polarity,neutral,mac,27
+polarity,neutral,new,26
+polarity,neutral,photo,26
+polarity,neutral,screen,26
+polarity,neutral,warranty,26
+polarity,neutral,editing,25
+polarity,neutral,run,24
+polarity,neutral,keyboard,22
+polarity,neutral,life,22
+polarity,neutral,applications,21
+polarity,positive,great,146
+polarity,positive,use,123
+polarity,positive,easy,91
+polarity,positive,screen,80
+polarity,positive,price,72
+polarity,positive,good,71
+polarity,positive,battery,65
+polarity,positive,love,62
+polarity,positive,life,61
+polarity,positive,mac,59
+polarity,positive,keyboard,56
+polarity,positive,fast,51
+polarity,positive,quality,51
+polarity,positive,well,51
+polarity,positive,programs,49
+polarity,positive,software,45
+polarity,positive,windows,44
+polarity,positive,macbook,43
+polarity,positive,works,39
+polarity,positive,features,37

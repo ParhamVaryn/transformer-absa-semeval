@@ -1,0 +1,10 @@
+{
+  "found": true,
+  "aspect": "CD/DVD drive",
+  "true_label": "neutral",
+  "original_sentence": "Needs a CD/DVD drive and a bigger power switch.",
+  "original_pred": "neutral",
+  "modified_sentence": "Needs a CD/DVD drive and a bigger power switch. Overall.",
+  "modified_pred": "negative",
+  "samples_tried": 44
+}

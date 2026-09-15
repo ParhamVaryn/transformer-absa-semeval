@@ -1,0 +1,7 @@
+run_name,lr,epochs,seed,target_marking,loss_type,val_f1_macro,val_accuracy
+deberta-v3-base_lr3e-05_ep3_seed42_tgt1_focal,3e-05,3,42,True,focal,0.7953825723793173,0.8238805970149253
+deberta-v3-base_lr2e-05_ep4_seed42_tgt1_focal,2e-05,4,42,True,focal,0.7837681828676981,0.8119402985074626
+deberta-v3-base_lr3e-05_ep4_seed42_tgt1_focal,3e-05,4,42,True,focal,0.7785872022714129,0.8059701492537313
+deberta-v3-base_lr2e-05_ep3_seed42_tgt1_focal,2e-05,3,42,True,focal,0.7529438748741794,0.7820895522388059
+deberta-v3-base_lr1e-05_ep4_seed42_tgt1_focal,1e-05,4,42,True,focal,0.7180675549270462,0.7402985074626866
+deberta-v3-base_lr1e-05_ep3_seed42_tgt1_focal,1e-05,3,42,True,focal,0.5679478710404368,0.5701492537313433
